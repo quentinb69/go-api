@@ -1,0 +1,3 @@
+- set url + action + authentification
+- set json parsing
+- go run main.go
